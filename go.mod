@@ -5,8 +5,8 @@ go 1.24
 toolchain go1.24.1
 
 require (
-	github.com/igadmg/gamemath v0.0.0-20250410222204-28d83654fdf2
-	github.com/igadmg/heap v0.0.0-20250430083744-f72ff41e06ba
+	github.com/igadmg/gamemath v0.0.0-20250502152201-14a551f600ad
+	github.com/igadmg/heap v0.0.0-20250502145154-f803b2996139
 )
 
 require (

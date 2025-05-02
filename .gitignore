@@ -24,5 +24,6 @@ pprof/
 
 # Go workspace file
 go.work
+go.work.sum
 
 0.gen*.*
