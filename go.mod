@@ -1,11 +1,9 @@
 module github.com/igadmg/astar
 
-go 1.24
-
-toolchain go1.24.1
+go 1.24.2
 
 require (
-	github.com/igadmg/gamemath v0.0.0-20250502152201-14a551f600ad
+	github.com/igadmg/gamemath v0.0.0-20250502161323-8f282f739e08
 	github.com/igadmg/heap v0.0.0-20250502145154-f803b2996139
 )
 
