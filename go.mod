@@ -3,8 +3,8 @@ module github.com/igadmg/astar
 go 1.24.2
 
 require (
-	github.com/igadmg/gamemath v0.0.0-20250912082247-0e04577f05ef
-	github.com/igadmg/heap v0.0.0-20250912082312-7a62582c0f32
+	github.com/igadmg/gamemath v0.0.0-20251005093227-7bfaf5fc0f12
+	github.com/igadmg/heap v0.0.0-20251005093206-86c41a03cb7c
 )
 
 require (
