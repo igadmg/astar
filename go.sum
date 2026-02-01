@@ -4,10 +4,16 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/igadmg/gamemath v0.0.0-20260117153000-d781679590ab h1:raLCBExg0gSeRoltIQAvBM/q7va7/imnZYEZHcvYTkU=
 github.com/igadmg/gamemath v0.0.0-20260117153000-d781679590ab/go.mod h1:VTiDXWrRUrcAoF0hu9o+Xea3XBDEqULZri5e2fDQtPw=
+github.com/igadmg/gamemath v0.0.0-20260128121329-35dd2bdcaffd h1:E6+syiAc8RyGq7RCGZYJzS338AI9Q62/xHy00K+LOv8=
+github.com/igadmg/gamemath v0.0.0-20260128121329-35dd2bdcaffd/go.mod h1:UtuexxhHBJBxVDeYf6ldAiuC0COXcGw6vBKiHyvPrPg=
 github.com/igadmg/goex v0.0.0-20260127173751-d6816b8eaa2c h1:QbKM5DzMdoH/Vv29yws22dxwHvyYhg3KYAARLR92SS0=
 github.com/igadmg/goex v0.0.0-20260127173751-d6816b8eaa2c/go.mod h1:hoYzF4RtOapJNTWv1uq99j2oY7jP3F9b7dv1j9/vxXw=
+github.com/igadmg/goex v0.0.0-20260201172011-1108af2793e7 h1:VxjhZwrFc5ima6eKN90amKwHmb5EcWRQnEztl6b0mEo=
+github.com/igadmg/goex v0.0.0-20260201172011-1108af2793e7/go.mod h1:mUm68QJdmQboEFcwLgEpLcrA6D0EPSLfTWuByuaWxs8=
 github.com/igadmg/heap v0.0.0-20260117152933-730745e7fb77 h1:XW5nyb4JZAZW0c2zT4FOU1LkkBsyJoxcxSWu37bo8FM=
 github.com/igadmg/heap v0.0.0-20260117152933-730745e7fb77/go.mod h1:4XAnRzojPYhm9CW0Jvko5EwmxQuLQdKl/RdqgKngOas=
+github.com/igadmg/heap v0.0.0-20260127181400-3c6d814ea227 h1:zoutcd/yvlP/spWP9H3sj+vW3IjWmp3RziZNOtq8zmk=
+github.com/igadmg/heap v0.0.0-20260127181400-3c6d814ea227/go.mod h1:4XAnRzojPYhm9CW0Jvko5EwmxQuLQdKl/RdqgKngOas=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/savsgio/gotils v0.0.0-20250924091648-bce9a52d7761 h1:McifyVxygw1d67y6vxUqls2D46J8W9nrki9c8c0eVvE=
