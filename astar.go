@@ -4,8 +4,8 @@ import (
 	"iter"
 	"slices"
 
-	"github.com/igadmg/gamemath/vector2"
-	"github.com/igadmg/heap"
+	"github.com/Mishka-Squat/gamemath/vector2"
+	"github.com/Mishka-Squat/heap"
 )
 
 // node is a node in the search space.
