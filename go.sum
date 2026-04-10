@@ -1,7 +1,7 @@
-github.com/Mishka-Squat/gamemath v0.0.0-20260314181207-3a77621846c3 h1:xe2wWfpiXvaTJF4zpUNEmbHjCY+SXD+2MmAMn8rz4AI=
-github.com/Mishka-Squat/gamemath v0.0.0-20260314181207-3a77621846c3/go.mod h1:psh8ksx83EQTjvHWIQmnPLJ1GyWB9iBe1qy0GjNF9GI=
-github.com/Mishka-Squat/goex v0.0.0-20260408093508-20944c6d514d h1:KH1jGU9N7g07XsHEkZ7oHlLdiZ3f6zWppAFmSryte1Q=
-github.com/Mishka-Squat/goex v0.0.0-20260408093508-20944c6d514d/go.mod h1:6S8pDMEP6L0FLSDTjtDumRaVPJQSkft/hfeW8lZlaLU=
+github.com/Mishka-Squat/gamemath v0.0.0-20260410141831-df6b051dcd73 h1:uO5WjRwcRSHwhOM9Xd9jAouddSVw95nHSSBtcj4U+G8=
+github.com/Mishka-Squat/gamemath v0.0.0-20260410141831-df6b051dcd73/go.mod h1:AlMN8IhTqSPaT+ffvu7YpOp6E3HpBrqa5zgeLMFh/pA=
+github.com/Mishka-Squat/goex v0.0.0-20260410140447-afaf9800e846 h1:YzklFIOzET0gCLedlMOJdc3fnzpmOOnTsuG7++EoVDg=
+github.com/Mishka-Squat/goex v0.0.0-20260410140447-afaf9800e846/go.mod h1:6S8pDMEP6L0FLSDTjtDumRaVPJQSkft/hfeW8lZlaLU=
 github.com/Mishka-Squat/heap v0.0.0-20260314181207-29cbd45f61ee h1:hA5oRwYVjszwRi33J4OfP2VhNClXtB7GvQPv/SqCrXU=
 github.com/Mishka-Squat/heap v0.0.0-20260314181207-29cbd45f61ee/go.mod h1:3CdibwOoluaqlz6fq1OumsypxfJ9Zy6CFRqOgQwFRf4=
 github.com/chewxy/math32 v1.11.1 h1:b7PGHlp8KjylDoU8RrcEsRuGZhJuz8haxnKfuMMRqy8=
@@ -14,7 +14,7 @@ github.com/savsgio/gotils v0.0.0-20250924091648-bce9a52d7761 h1:McifyVxygw1d67y6
 github.com/savsgio/gotils v0.0.0-20250924091648-bce9a52d7761/go.mod h1:Vi9gvHvTw4yCUHIznFl5TPULS7aXwgaTByGeBY75Wko=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90 h1:jiDhWWeC7jfWqR9c/uplMOqJ0sbNlNWv0UkzE0vX1MA=
-golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90/go.mod h1:xE1HEv6b+1SCZ5/uscMRjUBKtIxworgEcEi+/n9NQDQ=
+golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f h1:W3F4c+6OLc6H2lb//N1q4WpJkhzJCK5J6kUi1NTVXfM=
+golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f/go.mod h1:J1xhfL/vlindoeF/aINzNzt2Bket5bjo9sdOYzOsU80=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
