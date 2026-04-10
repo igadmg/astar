@@ -26,4 +26,6 @@ pprof/
 go.work
 go.work.sum
 
-0.gen*.*
+0.gen_*.*
+!0.gen_lazy.go
+!0.gen_gone.go
