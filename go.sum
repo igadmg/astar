@@ -1,9 +1,15 @@
 github.com/Mishka-Squat/gamemath v0.0.0-20260410141831-df6b051dcd73 h1:uO5WjRwcRSHwhOM9Xd9jAouddSVw95nHSSBtcj4U+G8=
 github.com/Mishka-Squat/gamemath v0.0.0-20260410141831-df6b051dcd73/go.mod h1:AlMN8IhTqSPaT+ffvu7YpOp6E3HpBrqa5zgeLMFh/pA=
+github.com/Mishka-Squat/gamemath v0.0.0-20260410153339-fe866f803731 h1:wfojR1O/qZerxVI/vyEGqJEpZzzog/+I8gvV15Dw4GE=
+github.com/Mishka-Squat/gamemath v0.0.0-20260410153339-fe866f803731/go.mod h1:hzC9I4btyvebg2AeUAEjRZJAgB2fp/Lp8I8EECIW2tw=
 github.com/Mishka-Squat/goex v0.0.0-20260410140447-afaf9800e846 h1:YzklFIOzET0gCLedlMOJdc3fnzpmOOnTsuG7++EoVDg=
 github.com/Mishka-Squat/goex v0.0.0-20260410140447-afaf9800e846/go.mod h1:6S8pDMEP6L0FLSDTjtDumRaVPJQSkft/hfeW8lZlaLU=
+github.com/Mishka-Squat/goex v0.0.0-20260416221119-e795dc6e095d h1:Z59mkOjp68pGvbVpysmJpKgVJwx7t61+odRp9pXAck0=
+github.com/Mishka-Squat/goex v0.0.0-20260416221119-e795dc6e095d/go.mod h1:Q5XPU/eWhTu/Efmp9yqmGXppuEs1QXYlj64BRZpgsGQ=
 github.com/Mishka-Squat/heap v0.0.0-20260314181207-29cbd45f61ee h1:hA5oRwYVjszwRi33J4OfP2VhNClXtB7GvQPv/SqCrXU=
 github.com/Mishka-Squat/heap v0.0.0-20260314181207-29cbd45f61ee/go.mod h1:3CdibwOoluaqlz6fq1OumsypxfJ9Zy6CFRqOgQwFRf4=
+github.com/Mishka-Squat/heap v0.0.0-20260410153338-e5b0f49cfd4d h1:SAa3WpRVx45s5fP2ztmWxui8iC8vBo8nWMpmf1RIwR0=
+github.com/Mishka-Squat/heap v0.0.0-20260410153338-e5b0f49cfd4d/go.mod h1:M1giJbehhEZ6kR6gamQEna2nmG9QYn3XP1RQBvyE9hM=
 github.com/chewxy/math32 v1.11.1 h1:b7PGHlp8KjylDoU8RrcEsRuGZhJuz8haxnKfuMMRqy8=
 github.com/chewxy/math32 v1.11.1/go.mod h1:dOB2rcuFrCn6UHrze36WSLVPKtzPMRAQvBvUwkSsLqs=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
